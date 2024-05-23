@@ -14,8 +14,8 @@ extended by two more endpoints:
 
 ## Packages
 
-### cmd
-`cmd` is the main app entry point for MyApp. It creates an HTTP 
+### cmd/myapp
+`cmd/myapp` is the main app entry point for MyApp. It creates an HTTP 
 server that gets extended via a plugin.
 
 ### internal
